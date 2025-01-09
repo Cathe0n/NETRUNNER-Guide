@@ -6,6 +6,9 @@ The objective of this guide is to provide a reminder and to some as a foundation
 
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/4b5e0fa5-7e3c-4dd5-badb-84267167461b" style="width: 40%; max-width: 300; max-height: 300;">
+    <img src="https://github.com/user-attachments/assets/12faa7fa-de41-4bfb-ac52-c6978bcec332" style="width: 100%; max-width: 500; max-height: 500;">
 
 </div>
+
+
+# **WORK IN PROGRESS** I haven't have the motivation to do this yet :(  I know...Depression is gay '-'  I still have to do Mac OS and Network forensics for the Blue detachment (Cyber Investigators) so this will be lower on my list so please be patient :3 
