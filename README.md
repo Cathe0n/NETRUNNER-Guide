@@ -11,4 +11,4 @@ The objective of this guide is to provide a reminder and to some as a foundation
 </div>
 
 
-# **WORK IN PROGRESS** I haven't have the motivation to do this yet :(  I know...Depression is gay '-'  I still have to do Mac OS and Network forensics for the Blue detachment (Cyber Investigators) so this will be lower on my list so please be patient :3 
+# **WORK IN PROGRESS** 
